@@ -2,7 +2,7 @@ package h07;
 
 public class Main {
     /**
-     * Main entry point in executing the program
+     * Main entry point in executing the program.
      *
      * @param args program arguments, currently ignored
      */
